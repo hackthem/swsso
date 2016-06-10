@@ -5,10 +5,6 @@ swSSO est un logiciel de E-SSO Open Source qui mémorise dans un fichier sécuri
 swSSO est compatible avec Windows XP, Vista, 7 et 8 et supporte les navigateurs Chrome, Firefox et Internet Explorer ainsi que les applications de type client lourd.
 
 
-<a href="https://scan.coverity.com/projects/swssorecoverdll">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/9103/badge.svg"/>
-</a>
 <a href="https://scan.coverity.com/projects/swsso">
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/9097/badge.svg"/>
